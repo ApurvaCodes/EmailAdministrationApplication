@@ -24,9 +24,9 @@ Scanner Class for user input
 
 ### 📂 Project Structure
 
-email_administration_application/
-├── Email.java     // Core logic for managing email accounts
-├── EmailApp.java  // Main class to run the application
+email_administration_application/\
+├── Email.java     // Core logic for managing email accounts\
+├── EmailApp.java  // Main class to run the application\
 └── README.md      // Project documentation
 
 ### 📑 How to Run
